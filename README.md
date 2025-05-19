@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-Project
+# Amazon Sales Analysis: Sales Insights with Python
 
 ## Overview :
 This project provides an exploratory data analysis (EDA) of Amazon sales data. The analysis aims to uncover key insights about product performance, pricing strategies, and customer behavior.  The primary focus is to understand which product categories drive the most revenue, which categories have the deepest discounts, and which categories exhibit the highest customer engagement.
